@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Include this file, the script, and the readme
+!.gitignore
+!blogBuilder.py
+!readme.md
